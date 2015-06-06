@@ -1,0 +1,27 @@
+﻿GraceTHD-MOD
+
+### Changelog
+
+06/06/2015
+v2_alpha1b
+	Première version destinée à la consultation des acteurs
+	- Ajout d'un exemple d'arborescence contenant un exemple de livrables graceTHD
+	- Modifications générales dans le fichier ods :
+		- Ajout d'une colonne "Exemple nommage"
+		- Suppression de la notion de "famille de document"
+		- Homogénéisation de la colonne "condition"
+		- Simplification du nommage des parties variables
+		- Ajout des onglets Exemples et batchs (pour la génération de l'arborescence exemple)
+	- Modifications sur les types de documents :
+		- Ajout des livrables géo correspondants au MCD GraceTHD V2
+		- Ajout du PLU et du PV de réception de voirie
+		- Suppression du PV de câblage et du PV optique
+		- Rattachement du dossier d'appui aérien à un seul appui
+		- ajout du dossier de commande pour location/occupation d'infrastructure
+		- Séparation du dossier immeuble en "Dossier de création de site (DCS)" et "Dossier de raccordement de site (DRS)"
+
+
+17/05/2015
+v2_alpha1a
+  	Première version créée comme base de discussion, non publiée
+	Directement nommée v2 car associée au MCD GraceTHD v2
