@@ -2,6 +2,9 @@
 
 ### Changelog
 
+v2_alpha1c
+	Modification de l'arborescence exemple
+
 06/06/2015
 v2_alpha1b
 	Première version destinée à la consultation des acteurs
