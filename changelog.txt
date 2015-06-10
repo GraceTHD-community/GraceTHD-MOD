@@ -2,7 +2,8 @@
 
 ### Changelog
 
-v2_alpha1d
+v2_beta1a
+	Ajout d'un fichier readme.txt dans le répertoire "Exemple"
 	
 
 v2_alpha1c
