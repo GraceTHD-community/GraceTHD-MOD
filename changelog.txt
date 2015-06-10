@@ -2,9 +2,12 @@
 
 ### Changelog
 
+10/06/2015
 v2_beta1a
 	Ajout d'un fichier readme.txt dans le répertoire "Exemple"
-	
+	Modification de la page d'accueil et du fichier readme.md (à la racine)
+	Mise en forme du fichier ods
+	Création d'un répertoire pour la documentation (mod_doc) et création d'un fichier documentation (le même que le fichier ods, allégé des batchs)
 
 v2_alpha1c
 	Modification de l'arborescence exemple
