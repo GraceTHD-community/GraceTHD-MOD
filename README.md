@@ -24,7 +24,7 @@ Le présent MOD contient également un exemple de mise en application, avec un e
 Une première consultation avait été lancée en février 2015 auprès des acteurs concernés afin de recenser les besoins. Le MOD proposé est le résultat des travaux d'intégration des souhaits ainsi recensés (version bêta de pré-production). Une seconde consultation est en cours (du 10/06/2015 au 03/07/2015) afin de reccueillir les avis avant une première release du modèle (MCD et MOD).
 Si vous souhaitez vous exprimer, la consultation est disponible ici : http://gracethd.dotic.fr/
 
-### Support or contact
+### Support et contact
 geostandard-ant-users@googlegroups.com
 
 ### Contributeurs
