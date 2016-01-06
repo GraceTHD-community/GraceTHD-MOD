@@ -10,7 +10,7 @@ La référence d'un document étant établie en tenant compte de son statut et d
 - Une liste de statuts types, basée sur la loi MOP pour les infrastructures
 - Une méthode de référencement des objets dans la base de données
 
-Le présent MOD contient également un exemple de mise en application en lien avec un jeu de données témoin, accompagné d'une arborescence type pouvant être mise en place.
+Un exemple de mise en application est disponible.
 
 Dans sa prochaine version, le MOD contiendra également des préconisations de remplissage des champs du MCD, selon le type de projet et le statut d'avancement.
 
