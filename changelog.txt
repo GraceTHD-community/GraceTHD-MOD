@@ -2,7 +2,7 @@
 
 ### Changelog
 
-06/01/2016
+07/01/2016
 v2.0
 	Synchronisation et mise en cohérence avec la version 2.0 validée du Geostandard ANT et du projet GraceTHD-MCD
 	Les modifications apportées sont mineures :
@@ -11,11 +11,8 @@ v2.0
 		- création d'un répertoire "sources" pour le placement du fichier de travail (identique GraceTHD-MCD)
 		- prise en compte de la suppression des identifiants dans GraceTHD-MCD (onglet MOD_nommage du fichier gracethd-mod-v2.0_doc_v01.ods, commentaires sur le code et faux amis)
 		- ajout de précisions sur l'arborescence (onglet MOD_nommage également)
-		- remplacement du jeu de données par le dernier jeu de données actuellement disponible (v2-beta2b)
+		- remplacement du jeu de données par le dernier jeu de données actuellement disponible (v2.0.0)
 		
-		
-
-
 10/06/2015
 v2_beta1a
 	Ajout d'un fichier readme.txt dans le répertoire "Exemple"
