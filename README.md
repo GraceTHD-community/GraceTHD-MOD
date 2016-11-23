@@ -2,28 +2,28 @@
 
 Le Modèle d'Organisation des Données et documents GraceTHD-MOD présente l'organisation des données et documents (techniques et adminsitratifs) à mettre en oeuvre en complément de GraceTHD-MCD et en lien avec lui. Il s'agit de préconisations à adapter aux spécificités de chaque projet et de chaque territoire :
 
-- Types de documents, contenu, usage et préconisations (collecte ou non à chaque statut, formats, informations complémentaires)
-- Références des documents et nommage des fichiers
-- Pour les livrables à fournir au format du Géostandard GraceTHD ANT V2 (type de document "DLG - Dossier de livrable GraceTHD-MCD") : détail des tables et attributs à collecter selon le type de projet et la phase d'avancement
+* Types de documents, contenu, usage et préconisations (collecte ou non à chaque statut, formats, informations complémentaires)
+* Références des documents et nommage des fichiers
+* Pour les livrables à fournir au format du Géostandard GraceTHD ANT V2 (type de document "DLG - Dossier de livrable GraceTHD-MCD") : détail des tables et attributs à collecter selon le type de projet et la phase d'avancement
 
 La référence d'un document étant établie en tenant compte de son statut et de son lien avec les objets de la base de données, le MOD présente également :
 
-- Une liste de statuts types, basée sur la loi MOP pour les infrastructures
-- Une méthode de référencement des objets dans la base de données
+* Une liste de statuts types, basée sur la loi MOP pour les infrastructures
+* Une méthode de référencement des objets dans la base de données
 
 Un exemple de mise en application est disponible.
 
 
 GraceTHD-MCD est le modèle de données validé par la Covadis comme [Geostandard Aménagement Numérique des Territoires v2](http://www.geoinformations.developpement-durable.gouv.fr/standard-covadis-amenagement-numerique-des-a3300.html). 
 
-La page de présentaion du projet GraceTHD : http://www.avicca.org/actualite/modele-de-donnees-gracethd
+La **page de présentation** du projet GraceTHD : http://www.avicca.org/actualite/modele-de-donnees-gracethd
 
-La plateforme de gestion du projet GraceTHD : [http://redmine.gracethd.org](http://redmine.gracethd.org)
+La **plateforme de gestion du projet** GraceTHD : [http://redmine.gracethd.org](http://redmine.gracethd.org)
 
 GraceTHD-MOD est un des projets maintenus par [GraceTHD-community](https://github.com/GraceTHD-community)
 * [GraceTHD-MCD](http://gracethd-community.github.io/GraceTHD-MCD/) : Un modèle de données relationnel destiné à échanger des modèles numériques de réseaux de télécommunications. 
-* [GraceTHD-Layers] (http://gracethd-community.github.io/GraceTHD-Layers/) : Un projet dédié à l'exploitation de GraceTHD-MCD avec QGis.
-* [GraceTHD-Check] (http://gracethd-community.github.io/GraceTHD-Check/) : Un projet dédié au contrôle des données (à venir).
+* [GraceTHD-Layers](http://gracethd-community.github.io/GraceTHD-Layers/) : Un projet dédié à l'exploitation de GraceTHD-MCD avec QGis.
+* [GraceTHD-Check](http://gracethd-community.github.io/GraceTHD-Check/) : Un projet dédié au contrôle des données (à venir).
 * [GraceTHD-Demo](http://gracethd-community.github.io/GraceTHD-Demo/) : Un dépôt dédié à des projets de démonstrations est également disponible. 
 
 ### Contexte
@@ -38,11 +38,11 @@ La version 2.0.1 inclu la grille de remplissage des tables et attributs GraceTHD
 ### Contenu
 * changelog.txt : historique des modifications
 * \mod_doc\ : documentation du modèle (fichiers ods)
-		Nommage des fichiers et références des documents, arborescence de classement
-		Liste et définition des statuts, basée sur la loi MOP pour les infrastructures
-		Niveaux de référencement permettant de "classer" les objets et les documents du réseau et de lier les documents aux objets du MCD
-		Types de documents, contenu types, principaux usages et préconisations de collecte
-		Grille de remplissage des tables et attributs des livrables GraceTHD
+	* Nommage des fichiers et références des documents, arborescence de classement
+	* Liste et définition des statuts, basée sur la loi MOP pour les infrastructures
+	* Niveaux de référencement permettant de "classer" les objets et les documents du réseau et de lier les documents aux objets du MCD
+	* Types de documents, contenu types, principaux usages et préconisations de collecte
+	* Grille de remplissage des tables et attributs des livrables GraceTHD
 * \Exemple\ : exemple de mise en application, avec jeu de données témoin et arborescence (voir readme.txt)
 * \sources\ : fichier de travail
 
