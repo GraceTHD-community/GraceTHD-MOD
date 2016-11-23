@@ -2,6 +2,28 @@
 
 ### Changelog
 
+23/11/2016
+v2.0.1
+	Ajout de la grille de remplissage : 
+	Ce nouveau document, disponible dans le répertoire "doc", précise le contenu attendu selon les phases du projet pour le type de document "DLG - Dossier de livrable GraceTHD-MCD"
+	En lien avec le géostandard GraceTHD ANT V2 (voir le projet Github GraceTHD-MCD), il préconise pour chaque phase le détail des tables et champs à collecter.
+	La grille était anciennement téléchargeable directement sur le site de l'AVICCA, les évolutions apportées à l'occasion de son intégration dans GraceTHD-MOD sont :
+		- Passage en .ods
+		- Valeurs centrées. 
+		- Restructuration pour intégration base. 
+			- MCD_Attributs et MCD_Classes
+				- Suppression des / dans les titres de colonnes. 
+				- Remplacement de "Nom court de l'attribut" par "Attribut". 
+				- Ajout de "Attribut" devant la table concessif ftth. 
+				- Avant, ajout d'une colonne "Reseau" pour y passer "DSP CONCESSIF FTTH
+				éléments propriété DSP" etc. 
+				- Suppression ligne 1
+				- Ajout colonne vide avant attribut afin de visuellement séparer les tables. 
+				- Renommage des noms de colonnes : Classe, NomTable, Definition, Regle, Location
+				- Ajout d'une colonne après chaque table pour générer le code SQL d'intégration des données. 
+		- Production des tables en csv (UTF-8 / séparateur ; / séparateur texte ")
+		- Classes : remplacement d'espaces par des NULL. 
+
 07/01/2016
 v2.0
 	Synchronisation et mise en cohérence avec la version 2.0 validée du Geostandard ANT et du projet GraceTHD-MCD
