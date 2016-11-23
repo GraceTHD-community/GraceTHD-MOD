@@ -6,7 +6,7 @@
 v2.0.1
 	Ajout de la grille de remplissage : 
 	Ce nouveau document, disponible dans le répertoire "doc", précise le contenu attendu selon les phases du projet pour le type de document "DLG - Dossier de livrable GraceTHD-MCD"
-	En lien avec le géostandard GraceTHD ANT V2 (voir le projet Github GraceTHD-MCD), il préconise pour chaque phase le détail des tables et champs à collecter.
+	En lien avec le géostandard GraceTHD ANT V2 (voir le projet Github GraceTHD-MCD), il préconise pour chaque phase le détail des tables et attributs à collecter.
 	La grille était anciennement téléchargeable directement sur le site de l'AVICCA, les évolutions apportées à l'occasion de son intégration dans GraceTHD-MOD sont :
 		- Passage en .ods
 		- Valeurs centrées. 
