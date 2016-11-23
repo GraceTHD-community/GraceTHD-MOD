@@ -59,8 +59,9 @@ Une plateforme de gestion de projet [Redmine](http://redmine.gracethd.org) desti
 
 Toute contribution au modèle est la bienvenue et encouragée. 
 
-Comité de pilotage : Avicca - L'Agence du Numérique - Caisse des dépôts - Région Alsace - Région Aquitaine - Syane - Mégalis Bretagne - Manche Numérique - La Fibre 59/62 - Gironde Numérique - Touraine Cher Numérique - Oise THD. De nouvelles collectivités rejoignent actuellement le comité de pilotage. 
+Comité de pilotage : Avicca - L'Agence du Numérique - Caisse des dépôts - Région Alsace - CR Aquitaine - Syane - Mégalis Bretagne - Manche Numérique - La Fibre 59/62 - Gironde Numérique - Touraine Cher Numérique - Oise THD - SM Haute Saône Numérique - SPL Isère Aménagement - SICTIAM - SIeA - SM ADN - SM du Doubs - SM PACA THD - SM Seine-et-Marne numérique - SM Eure-et-Loir numérique - CEREMA - COVADIS
 
 Groupement d'entreprises : DOTIC - CADaGEO - Aleno - Cochr@n.
 
-Comité consultatif : Aleno, Altitude Infrastructure, Ambition télécoms, Ardèche Drôme Numérique, Axione, CADaGEO, Circet, Covadis/Cerema, Covage, Dotic, Eiffage, Esri France, GISmartsware, Groupe Interop Fibre, Isère, Mégalis Bretagne, Oise THD, Orange, Région Alsace, SFR Collectivités, SPIE, Syane, Tutor. 
+Autres contributeurs (groupes experts) : Gironde - Makina Corpus - Axione - Circet - Covage - Geomap-Imagis - Orange - SFR - Sobeca - Sogetrel - Tutor - Grand Est - CampToCamp
+Autres contributeurs (redmine) : merci à tous les contributeurs de la plateforme de gestion de projets, voir liste sur [Redmine](http://redmine.gracethd.org)
