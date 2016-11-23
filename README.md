@@ -16,7 +16,7 @@ Un exemple de mise en application est disponible.
 
 GraceTHD-MCD est le modèle de données validé par la Covadis comme [Geostandard Aménagement Numérique des Territoires v2](http://www.geoinformations.developpement-durable.gouv.fr/standard-covadis-amenagement-numerique-des-a3300.html). 
 
-La **page de présentation** du projet GraceTHD : http://www.avicca.org/actualite/modele-de-donnees-gracethd
+La **page de présentation** du projet GraceTHD : http://www.avicca.org/content/gracethd
 
 La **plateforme de gestion du projet** GraceTHD : [http://redmine.gracethd.org](http://redmine.gracethd.org)
 
