@@ -63,5 +63,6 @@ Comité de pilotage : Avicca - L'Agence du Numérique - Caisse des dépôts - R�
 
 Groupement d'entreprises : DOTIC - CADaGEO - Aleno - Cochr@n.
 
-Autres contributeurs (groupes experts) : Gironde - Makina Corpus - Axione - Circet - Covage - Geomap-Imagis - Orange - SFR - Sobeca - Sogetrel - Tutor - Grand Est - CampToCamp
+Autres contributeurs (historiques, groupes experts) : Gironde - Makina Corpus - Axione - Circet - Covage - Geomap-Imagis - Orange - SFR - Sobeca - Sogetrel - Tutor - Grand Est - CampToCamp
+
 Autres contributeurs (redmine) : merci à tous les contributeurs de la plateforme de gestion de projets, voir liste sur [Redmine](http://redmine.gracethd.org)
