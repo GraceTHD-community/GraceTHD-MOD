@@ -1,0 +1,8 @@
+title: GraceTHD-MOD
+description: Documents préconisant un Modèle d'Organisation des Données applicable en relation avec le modèle de données GraceTHD
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
